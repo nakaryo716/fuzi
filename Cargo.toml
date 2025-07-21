@@ -2,5 +2,11 @@
 name = "fuzi"
 version = "0.0.0"
 edition = "2024"
+description = """
+HTTP/3 based Web application framework
+"""
+readme = "README.md"
+documentation = "https://docs.rs/fuzi"
+repository = "https://github.com/nakaryo716/fuzi"
 
 [dependencies]
